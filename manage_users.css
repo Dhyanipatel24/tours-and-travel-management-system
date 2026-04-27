@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    display: flex;
+    background-color: #f1f2f6;
+}
+
+
+.main-content {
+    margin-left: 250px;
+    padding: 40px;
+    width: calc(100% - 250px);
+}
+
+header h1 {
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: #2f3640;
+}
+
+.users-table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.users-table th, .users-table td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+.users-table th {
+    background-color: #00a8ff;
+    color: white;
+}
+
+.users-table tr:hover {
+    background-color: #f5f5f5;
+}
+
+/* Edit/Delete buttons */
+.users-table td a {
+    text-decoration: none;
+    padding: 6px 12px;
+    border-radius: 4px;
+    color: white;
+    font-weight: 500;
+    margin-right: 5px;
+    transition: 0.3s;
+}
+
+.users-table td a.edit-btn {
+    background-color: #27ae60;
+}
+
+.users-table td a.edit-btn:hover {
+    background-color: #2ecc71;
+}
+
+.users-table td a.delete-btn {
+    background-color: #e74c3c;
+}
+
+.users-table td a.delete-btn:hover {
+    background-color: #ff4d4d;
+}
