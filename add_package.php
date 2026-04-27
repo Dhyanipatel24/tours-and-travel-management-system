@@ -23,8 +23,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <html>
 <head>
     <title>Add Package</title>
-    <link rel="stylesheet" href="admin_style.css">
-    <link rel="stylesheet" href="add_package.css">
+    <link rel="stylesheet" href="css/admin_style.css">
+    <link rel="stylesheet" href="css/add_package.css">
 </head>
 <body>
 <div class="content">

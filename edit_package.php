@@ -49,8 +49,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <html>
 <head>
     <title>Edit Package</title>
-    <link rel="stylesheet" href="admin_style.css">
-    <link rel="stylesheet" href="edit_packages.css">
+    <link rel="stylesheet" href="css/admin_style.css">
+    <link rel="stylesheet" href="css/edit_packages.css">
 </head>
 <body>
 <div class="content">

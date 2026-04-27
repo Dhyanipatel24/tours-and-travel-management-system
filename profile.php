@@ -24,7 +24,7 @@ $user = $result->fetch_assoc();
 <head>
     <meta charset="UTF-8">
     <title>My Profile</title>
-    <link rel="stylesheet" href="profile.css">
+    <link rel="stylesheet" href="css/profile.css">
 </head>
 <body>
     <div class="profile-container">

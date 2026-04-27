@@ -31,8 +31,8 @@ $result = $conn->query($sql);
 <head>
     <meta charset="UTF-8">
     <title>Manage Bookings</title>
-    <link rel="stylesheet" href="admin_style.css">
-    <link rel="stylesheet" href="admin_bookings.css">
+    <link rel="stylesheet" href="css/admin_style.css">
+    <link rel="stylesheet" href="css/admin_bookings.css">
 </head>
 <body>
 <div class="content">

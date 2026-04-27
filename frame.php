@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Admin Sidebar</title>
     <!-- Link external CSS -->
-    <link rel="stylesheet" href="frame.css">
+    <link rel="stylesheet" href="css/frame.css">
 </head>
 <body>
     <div class="sidebar">

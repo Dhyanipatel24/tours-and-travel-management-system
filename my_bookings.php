@@ -30,7 +30,7 @@ $result = $stmt->get_result();
 <head>
     <meta charset="UTF-8">
     <title>My Bookings</title>
-    <link rel="stylesheet" href="my_bookings.css">
+    <link rel="stylesheet" href="css/my_bookings.css">
 </head>
 <body>
     <div class="container">

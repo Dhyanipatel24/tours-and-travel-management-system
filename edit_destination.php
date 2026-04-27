@@ -78,8 +78,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <meta charset="UTF-8">
     <title>Edit Destination | Tour & Travel Admin</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="admin_style.css">
-    <link rel="stylesheet" href="add_destination.css">
+    <link rel="stylesheet" href="css/admin_style.css">
+    <link rel="stylesheet" href="css/add_destination.css">
 </head>
 <body>
     <?php include 'frame.php'; ?>

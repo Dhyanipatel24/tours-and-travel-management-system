@@ -54,7 +54,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <head>
     <meta charset="UTF-8">
     <title>Payment</title>
-    <link rel="stylesheet" href="payment.css">
+    <link rel="stylesheet" href="css/payment.css">
 </head>
 <body>
 

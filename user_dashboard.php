@@ -25,7 +25,7 @@ if (isset($_SESSION['user_id'])) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>User Dashboard</title>
-    <link rel="stylesheet" href="user_dashboardd.css">
+    <link rel="stylesheet" href="css/user_dashboardd.css">
 </head>
 <body>
     

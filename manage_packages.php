@@ -26,8 +26,8 @@ if (isset($_GET['delete'])) {
 <html>
 <head>
     <title>Manage Packages</title>
-    <link rel="stylesheet" href="admin_style.css">
-    <link rel="stylesheet" href="manage_package.css">
+    <link rel="stylesheet" href="css/admin_style.css">
+    <link rel="stylesheet" href="css/manage_package.css">
 </head>
 <body>
 <div class="content">

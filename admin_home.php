@@ -27,7 +27,7 @@ $totalPackages = $packageRow['total_packages'];
     <meta charset="UTF-8">
     <title>Admin Dashboard | Tour & Travel Management</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="admin_style.css">
+    <link rel="stylesheet" href="css/admin_style.css">
 </head>
 <body>
     <?php include 'frame.php'; ?>

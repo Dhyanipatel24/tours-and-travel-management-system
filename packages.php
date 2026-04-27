@@ -30,7 +30,7 @@ if ($destination_id > 0) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Packages</title>
-    <link rel="stylesheet" href="packages.css">
+    <link rel="stylesheet" href="css/packages.css">
 </head>
 <body>
     

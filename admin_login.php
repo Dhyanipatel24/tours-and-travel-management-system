@@ -25,7 +25,7 @@ if (isset($_POST['login'])) {
 <head>
     <meta charset="UTF-8">
     <title>Admin Login</title>
-    <link rel="stylesheet" href="admin_loginn.css">
+    <link rel="stylesheet" href="css/admin_loginn.css">
 </head>
 <body>
     <div class="login-box">
