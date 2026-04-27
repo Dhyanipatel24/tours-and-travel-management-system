@@ -60,7 +60,12 @@ Default settings:
 ---
 
 ## 📸 Screenshots
-![admin_Home Page](screenshots/admin_home.png)
+![admin_home Page](screenshots/admin_home.png)
+![manage_package Page](screenshots/manage_package.png)
+![view_bookings Page](screenshots/view_bookings.png)
+![user_dashboard Page](screenshots/user_dashboard.png)
+![explore_packages Page](screenshots/explore_packages.png)
+
 
 
 ---
