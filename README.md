@@ -1,6 +1,9 @@
 # 🌍 Tours and Travel Management System
 
-A web-based application developed to manage tour packages, customer bookings, and travel services efficiently. This project demonstrates full-stack development using PHP and MySQL.
+## 🌐 Live Demo
+🔗 https://dhyaniitours.infinityfreeapp.com
+
+This project demonstrates full-stack web development using PHP, MySQL, HTML, CSS, and JavaScript with a fully deployed live application.
 
 ---
 
@@ -16,7 +19,7 @@ A web-based application developed to manage tour packages, customer bookings, an
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** PHP  
-- **Database:** MySQL (XAMPP)  
+- **Database:** MySQL 
 
 ---
 
@@ -56,6 +59,9 @@ Default settings:
 - Password: (empty)  
 - Database: tours_travel_db  
 
+## 🔑 Admin Access
+Admin panel:
+https://dhyaniitours.infinityfreeapp.com/admin_login.php
 
 ---
 
